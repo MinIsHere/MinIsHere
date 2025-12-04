@@ -1,9 +1,9 @@
 
 # Hi guys 👋, I'm Minh, u guys can me Ryuu
 
-I'm Minh — a developer from Viet Nam with goals to become a Full‑Stack Developer and to learn more about AI. I enjoy discovering new technologies and building projects that help people solve every prolems
-in this modern social[...]
-Im also going to become a game dev with Unity engine and build some games that make people feel fun and reduce stress after hard working
+- I'm Minh — a developer from Viet Nam with goals to become a Full‑Stack Developer and to learn more about AI. 
+- I enjoy discovering new technologies and building projects that help people solve every prolems in this modern social[...]
+- Im also going to become a game dev with Unity engine and build some games that make people feel fun and reduce stress after hard working
 ---
 
 ## 🔗 Socials
