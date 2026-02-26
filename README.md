@@ -52,5 +52,5 @@ Languages & tools I work with (proficient and beginner level):
 ## 📬 Contact
 - Email: ngoquocminh2110@gmail.com  
 ---
-Just a little dream of a boy want to be a dev
+I'm a fan of Real Marid and T1 btw =)))
 ```
